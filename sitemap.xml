@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>sts.com/beranda.html</loc>
+    </url>
+    <url>
+        <loc>sts.com/dashboard.html</loc>
+    </url>
+    <url>
+        <loc>sts.com/DataKelasTari.html</loc>
+    </url>
+    <url>
+        <loc>sts.com/DataPengajar.html</loc>
+    </url>
+    <url>
+        <loc>sts.com/dk1a.html</loc>
+    </url>
+    <url>
+        <loc>sts.com/dp1a.html</loc>
+    </url>
+    <url>
+        <loc>sts.com/login.html</loc>
+    </url>
+    <url>
+        <loc>sts.com/pendaftaran.html</loc>
+    </url>
+    <url>
+        <loc>sts.com/peserta.html</loc>
+    </url>
+    <url>
+        <loc>sts.com/profile.html</loc>
+    </url>
+    <url>
+        <loc>sts.com/register.html</loc>
+    </url>
+    <url>
+        <loc>sts.com/table.html</loc>
+    </url>
+    <url>
+        <loc>sts.com/tambah.html</loc>
+    </url>
+</urlset>
